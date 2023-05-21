@@ -1,0 +1,411 @@
+*{
+    font-size: medium;
+    
+}
+.navbar-m {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.nav-bar{
+    width: 100%;
+    height: 80px;
+    background-color: white;
+
+}
+
+.image-logo {
+    width: 150px;
+    height: 60px;
+    margin-left: 20px;
+}
+.menu{
+    display: flex;
+    flex-direction: row;
+    margin-left: 400px;
+    font-weight: 900;
+    font-style: oblique;
+    text-decoration: none;
+}
+
+.nav-link{
+    color: #323f4b;
+    font-family: "Roboto";
+    text-decoration: none;
+    padding-left: 20px;
+}
+#navItem2 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem3 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+#navItem4 {
+    color: #323f4b;
+    font-family: "Roboto";
+}
+.hd{
+    margin-top: 20px;
+}
+
+.menu-option{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.cs{
+    background-image: linear-gradient(to right, gold , yellow);
+}
+.fi{
+    width: 500px;
+    height: 500px;
+    border-radius: 18px;
+    margin: 50px;
+}
+.mes{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+
+    
+}
+.mess{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+}
+.hc{
+    font-weight: 500;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.pc{
+    color: gray;
+    font-size: large;
+}
+.cr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.g{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 350px;
+    box-shadow: 10px 10px;
+    box-shadow: 10px 10px 5px darkgray inset;
+}
+.mim{
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 16px;
+    padding-right: 16px;
+}
+.gr{
+    width: 80px;
+    height: 70px;
+    border-radius: 5px;
+    margin-left: 16px;
+    padding-right: 16px;
+}
+.hm{
+    font-size: large;
+    padding-top: 20px;
+}
+.pm{
+    font-size: small;
+    padding-right: 16px;
+}
+.grass{
+    border-color: grey;
+    border-width: 1px;
+    color: lightsteelblue;
+    text-decoration: none;
+
+}
+.bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 280px;
+    border-radius: 16px;
+    box-shadow: 10px 10px;
+    box-shadow: 10px 10px 5px gray inset;
+
+}
+.crs{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 0px;
+    margin-top: 30px;
+    margin-bottom: 35px;
+}
+.imagemo{
+    border-top-right-radius: 12px;
+    border-top-left-radius: 12px;
+    width: 280px;
+    height: 240px;
+}
+.pcs{
+    font-size: large;
+    text-align: center;
+    color: #323f4b;
+    padding-top: 25px;
+    padding-bottom: 25px;
+
+
+}
+.m1{
+    display: flex;
+    flex-direction: column;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.m2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 30px;
+    
+}
+.m23{
+    display: flex;
+    flex-direction: column;
+    width: 350px;
+}
+.m3{
+    display: flex;
+    flex-direction: column;
+    
+}
+.hmc{
+    color: gray;
+    font-size: large;
+    text-align: center;
+    padding-left: 33px;
+}
+.uhxm{
+    font-size: large;
+}
+
+.imm{
+    border-radius: 12px;
+    background-color: blueviolet;
+    padding-left: 12px;
+    margin-right: 18px;
+}
+.imm1{
+    padding-right: 10px;
+}
+.imam{
+    padding-top: 30px;
+    width: 250px;
+    height: 150px;
+    align:center;
+    text-align: center;
+}
+.foot{
+    background-color: grey;
+    width: 100%;
+    height: 890px;
+
+}
+.fi{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: 10%;
+    height: 600px;
+    background-color: grey;
+}
+.fif{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    margin: 5%;
+    color: white;
+}
+.fis{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 5%;
+    color: white;
+}
+.imic{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.tweet{
+    display: flex;
+    flex-direction: column;
+    width: 27%;
+    margin: 3%;
+    border-radius: 12px;
+    background-color: aliceblue;
+}
+.mm{
+    display: flex;
+    flex-direction: column;
+    margin-top: 5%;
+    width: 25%;
+}
+
+.footer-sec{
+    display: flex;
+    flex-direction: column;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.pages{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    color: grey;
+}
+.democ{
+    width: 200px;
+    height: 50px;
+    padding: 10px;
+    background-color: blue;
+    color: white;
+    border-radius: 12px;
+    text-align: center;
+}
+.dem{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 25px;
+}
+.tags{
+    text-align: center;
+    font-size: 900;
+    color: whitesmoke;
+}
+.cc{
+    color: firebrick;
+    font-weight: bold;
+}
+.spa{
+    font-weight:bold;
+    color: salmon;
+    margin-left: 30px;
+}
+.fii{
+    width: 500px;
+    height: 600px;
+    border-radius: 18px;
+    margin: 50px;
+}
+.Doctor-appointment {
+    background-image: url("https://www.yashodahealthcare.com/book-an-appointment/images/1612959243_book.webp");
+    background-size: cover;
+    padding-top: 300px;
+    padding-left: 100px;
+    padding-bottom: 350px;
+    padding: 100px;
+    border-radius: 18px;
+    color: darkgoldenrod;
+}
+
+.p-name {
+    display: inline-block;
+    font-size: 20px;
+    width: 80px;
+    margin-bottom: 10px;
+    color: khaki;
+}
+
+input[type="text"],
+input[type="date"],
+input[type="time"] {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+li:last-child {
+    border-bottom: none;
+}
+
+form {
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    margin-bottom: 10px;
+}
+
+input[type="number"],
+select {
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #3e8e41;
+}
+
+input[type="number"][readonly] {
+    background-color: #ddd;
+}
+.h{
+    color: goldenrod;
+}
